@@ -80,7 +80,6 @@ public class CalculatorTest {
 	
 	@Test
 	public void testDividedWith0Denominator() {
-		//fail("Not yet implemented");
 	    
 	    try {
 	      cal.divide(a, c);
